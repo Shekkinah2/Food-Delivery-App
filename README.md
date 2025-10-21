@@ -42,13 +42,14 @@ I designed the complete mobile app layout — including structure, navigation, a
 
 ## Screens Included
 
+<img width="1285" height="845" alt="Food delivery app" src="https://github.com/user-attachments/assets/3d61864c-5d54-4904-b503-f1bb8f8916a5" />
+g
 - Welcome Screen
 - Home Screen with Offers and Deals
 - Product Detail Page
 
-## How to View the Design
-
-Figma File Link: View in Figma
+### 🔗 Figma File
+[View the full design on Figma](https://www.figma.com/design/K3EJoGgyVr1fIJ5vYsRWW3/Food-delivery-app?node-id=0-1&p=f&t=dpzvJyyyB261ma14-0)
 
 ## Conclusion
 
