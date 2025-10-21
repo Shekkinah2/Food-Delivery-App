@@ -39,3 +39,18 @@ I designed the complete mobile app layout — including structure, navigation, a
 - Improved understanding of UI hierarchy, color balance, and component design.
 - Gained hands-on experience in creating responsive and realistic app mockups.
 - Learned to use prototype linking and transitions for simulating real app interactions.
+
+## Screens Included
+
+- Welcome Screen
+- Home Screen with Offers and Deals
+- Product Detail Page
+
+## How to View the Design
+
+Figma File Link: View in Figma
+
+## Conclusion
+
+This project helped me gain strong practical experience in Figma UI Design, focusing on visual appeal and user engagement.
+It’s an ideal base for future integration with frontend frameworks like React Native or Flutter.
